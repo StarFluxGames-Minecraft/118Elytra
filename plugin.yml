@@ -1,0 +1,6 @@
+main: com.starfluxgames.elytra.Core
+name: 118Elytra
+version: 1.0
+description: Implements 1.18 Elytra Mechanics
+author: StarFluxGames
+api-version: 1.17
